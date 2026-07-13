@@ -1,0 +1,29 @@
+# Keil MDK build and user files
+**/Objects/
+**/Listings/
+**/DebugConfig/
+*.axf
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.crf
+*.dep
+*.map
+*.lst
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+
+# IDE and temporary files
+.vscode/*.log
+.vscode/*.lock
+*.log
+*.lock
+*.tmp
+*.bak
+~$*
+
+# Do not version bundled Windows tools and drivers
+工具包/
