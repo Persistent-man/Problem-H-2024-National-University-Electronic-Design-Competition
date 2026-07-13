@@ -1,3 +1,5 @@
+底层借鉴B站博主“我的代码没问题”||给我加学分hbwlxy-2025118228
+
 # STM32F103C8T6 Intelligent Tracking Car
 
 This repository contains the firmware and supporting material for a two-wheel differential-drive tracking car. The project is built around an STM32F103C8T6, an 8-channel grayscale tracking sensor, a TB6612 motor driver, dual encoders, and an MPU6050 IMU.
